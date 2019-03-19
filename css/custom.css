@@ -1,0 +1,4 @@
+
+html:not(.page-loaded) #container1 img:nth-child(1){
+  display: none;
+}
