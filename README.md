@@ -10,7 +10,7 @@ It is a tool I use to-
 
 ## Demo
 
-https://musavvirahmed.github.io/InterPare-BETA/
+https://musavvirahmed.github.io/InterPare-ALPHA/
 
 ## License
 
